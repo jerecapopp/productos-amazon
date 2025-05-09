@@ -20,3 +20,9 @@ Sitio web simple que recomienda productos de Amazon seleccionados por expertos e
 ---
 
 Desarrollado por jerecapopp 🛠️
+<div class="producto">
+  <h2>Producto XYZ</h2>
+  <img src="URL_DE_IMAGEN" alt="Producto XYZ">
+  <p>Descripción del producto.</p>
+  <a class="boton" href="https://www.amazon.com/tu-link" target="_blank">Ver en Amazon</a>
+</div>
